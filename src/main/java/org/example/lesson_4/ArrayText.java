@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class ArrayText {
 
     public static void main(String[] args) {
+
         ArrayList<String> textList = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);
 
